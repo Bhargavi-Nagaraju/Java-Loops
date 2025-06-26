@@ -16,6 +16,12 @@ This repository contains simple and well-commented Java programs to demonstrate 
 3. **Print Numbers 1 to 10 using `do-while` loop**
    - Demonstrates how a `do-while` loop works
    - Prints numbers from 1 to 10
+     
+4   **🧮 Sum of Array Elements using `for-each` loop**
+   - Uses the enhanced `for-each` loop
+   - Calculates the sum of elements in an array
+   - Great for understanding how `for-each` works with collections/arrays
+
 
 ## 🎯 Purpose
 
